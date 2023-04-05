@@ -22,5 +22,6 @@ Steps to add it to the task manager
   - set the argument as the path of your folder where you forked it 
   - set the argument as the file name
   and hit run
-  
+  ** Or just import the xml file on the task scheduler
+  just click on import task and add this xml file to the task scheduler
   make your computer has python installed 
