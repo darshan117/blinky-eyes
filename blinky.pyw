@@ -23,7 +23,7 @@ class Ui_MainWindow(object):
         MainWindow.setCentralWidget(self.centralwidget)
 
         # set qmovie as label
-        self.movie = QMovie("C:\\Users\\Darshan\\Downloads\\giphy.gif")
+        self.movie = QMovie("giphy.gif")
         self.label.setMovie(self.movie)
         self.movie.start()
 
