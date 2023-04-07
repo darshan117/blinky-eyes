@@ -25,3 +25,6 @@ Steps to add it to the task manager
   ** Or just import the xml file on the task scheduler
   just click on import task and add this xml file to the task scheduler
   make your computer has python installed 
+ 
+ Remember to restart the computer once you create the task scheduler
+ 
